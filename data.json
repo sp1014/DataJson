@@ -1,0 +1,52 @@
+[
+   
+    {
+        "id": 1,
+        "nombre": "Octavia Blake ",
+        "edad": "17-18 años",
+        "descripcion": "Octavia es la nueva comandante no solo de los terrestres si no de todos incluyendo a los arkadianos.",
+        "imagen" : "https://vader.news/__export/1615890734915/sites/gadgets/img/2021/03/16/the_100_octavia.jpg_1821203719.jpg"
+    
+    },
+    {
+        "id":2,
+        "nombre": "Bellamy Blake",
+        "edad": "23 años",
+        "descripcion": "Bellamy es co-líder de los 100 originales junto a Clarke. Él no forma parte de los 100 originales y se hizo pasar por un guardia para colarse en la nave por su hermana, Octavia.",
+        "imagen" : "https://laverdadnoticias.com/__export/1593225227713/sites/laverdad/img/2020/06/26/series_the_100_ratings_temporada_7_bellamy_blake.jpeg_423682103.jpeg"
+    
+    },
+    {
+        "id":3,
+        "nombre": "Lexa",
+        "edad": "22 años",
+        "descripcion": "Ella es la comandante de los 12 clanes. Lexa es la razón por la que los doce clanes se unieron para luchar contra el Monte Weather y sin ella, la Coalición sería un fracaso. Antes de eso, la Nación de Hielo era la mayor amenaza para la alianza de los doce clanes.",
+        "imagen" : "https://i.pinimg.com/originals/4c/ab/a2/4caba24dd79a517a16e73e19e1b7d56b.jpg"
+    
+    },
+    {
+        "id":4,
+        "nombre": "Clarke Griffin",
+        "edad": "18 años",
+        "descripcion": "Clarke fue parte de Los 100, un grupo de delincuentes y drogadictos juveniles del Arca que fueron enviados a la Tierra a matar. Antes de ser arrestada, Clarke era aprendiz médico junto con su madre. Luego de varias muertes en la Tierra, Clarke se convirtió en la co-líder de los 100 junto a Bellamy Blake. Mientras estuvo a cargo, intentó negociar un tratado de paz con Anya y ayudó a liderar la defensa contra el ejército de Terrestres que atacaban su campamento.",
+        "imagen" : "http://pm1.narvii.com/7227/ff74efb3f9f08f66dda1c47d1dad1a664262d2fdr1-564-1002v2_uhq.jpg"
+    
+    },
+    {
+        "id":5,
+        "nombre": "Finn Collins",
+        "edad": "17 años",
+        "descripcion": "Finn es uno de los rastreadores de los 100. Finn es parte de los 100 originales. Fue detenido por una caminata espacial ilegal y enviado a la cárcel de menores. Esto lo hizo por el cumpleaños de su ex-novia Raven Reyes y ya que les pillaron y el tomó la responsabilidad de ello.",
+        "imagen" : "https://vader.news/__export/1617644906694/sites/gadgets/img/2021/04/05/finn_collins_the_100.jpeg_1494592460.jpeg"
+    
+    },
+    {
+        "id":6,
+        "nombre": "John Murphy",
+        "edad": "17 años",
+        "descripcion": " es un personaje principal de la serie The 100, el cual comenzó a tomar protagonismo a partir de la segunda temporada. Fue parte de los 100 delincuentes enviados a la Tierra para testear las condiciones del planeta.",
+        "imagen" : "https://i.pinimg.com/originals/e4/48/2b/e4482b49351be309668a1ae4cbbac57b.jpg"
+    
+    }
+    
+]
